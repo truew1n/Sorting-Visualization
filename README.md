@@ -1,5 +1,7 @@
 # Sorting-Visualization
 
+Sort! Sort? Sort?!
+
 ## Build
 ```
 #!/bin/bash
